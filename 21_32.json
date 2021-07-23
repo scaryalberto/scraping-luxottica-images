@@ -1,0 +1,235 @@
+{
+    "DocumentStream": [
+        {
+            "_id": "8053672981520",
+            "moco": "0RB2132__6398Y5",
+            "model": "0RB2132",
+            "pictures": {
+                "Catalog image": {
+                    "_default": [
+                        "/RB/0RB2132/0RB2132__6398Y5.jpg"
+                    ]
+                },
+                "Degree": {
+                    "0": [
+                        "/RB/0RB2132/0RB2132__6398Y5_000A.png"
+                    ],
+                    "120": [
+                        "/RB/0RB2132/0RB2132__6398Y5_120A.png"
+                    ],
+                    "150": [
+                        "/RB/0RB2132/0RB2132__6398Y5_150A.png"
+                    ],
+                    "180": [
+                        "/RB/0RB2132/0RB2132__6398Y5_180A.png"
+                    ],
+                    "210": [
+                        "/RB/0RB2132/0RB2132__6398Y5_210A.png"
+                    ],
+                    "240": [
+                        "/RB/0RB2132/0RB2132__6398Y5_240A.png"
+                    ],
+                    "270": [
+                        "/RB/0RB2132/0RB2132__6398Y5_270A.png"
+                    ],
+                    "30": [
+                        "/RB/0RB2132/0RB2132__6398Y5_030A.png"
+                    ],
+                    "300": [
+                        "/RB/0RB2132/0RB2132__6398Y5_300A.png"
+                    ],
+                    "330": [
+                        "/RB/0RB2132/0RB2132__6398Y5_330A.png"
+                    ],
+                    "60": [
+                        "/RB/0RB2132/0RB2132__6398Y5_060A.png"
+                    ],
+                    "90": [
+                        "/RB/0RB2132/0RB2132__6398Y5_090A.png"
+                    ]
+                },
+                "PI20": {
+                    "Alternative": [
+                        "/RB/0RB2132/0RB2132__6398Y5__STD__shad__al2.png"
+                    ],
+                    "Back": [
+                        "/RB/0RB2132/0RB2132__6398Y5__STD__shad__bk.png"
+                    ],
+                    "Closed Front": [
+                        "/RB/0RB2132/0RB2132__6398Y5__STD__shad__cfr.png"
+                    ],
+                    "Front": [
+                        "/RB/0RB2132/0RB2132__6398Y5__STD__noshad__fr.png",
+                        "/RB/0RB2132/0RB2132__6398Y5__STD__shad__fr.png"
+                    ],
+                    "Lateral": [
+                        "/RB/0RB2132/0RB2132__6398Y5__STD__shad__lt.png"
+                    ],
+                    "Quarter": [
+                        "/RB/0RB2132/0RB2132__6398Y5__STD__shad__qt.png",
+                        "/RB/0RB2132/0RB2132__6398Y5__STD__noshad__qt.png"
+                    ]
+                }
+            },
+            "pictures_flags": [
+                "PI20",
+                "Catalog image",
+                "Degree"
+            ]
+        },
+        {
+            "_id": "8053672981537",
+            "moco": "0RB2132__6398Y5",
+            "model": "0RB2132",
+            "pictures": {
+                "Catalog image": {
+                    "_default": [
+                        "/RB/0RB2132/0RB2132__6398Y5.jpg"
+                    ]
+                },
+                "Degree": {
+                    "0": [
+                        "/RB/0RB2132/0RB2132__6398Y5_000A.png"
+                    ],
+                    "120": [
+                        "/RB/0RB2132/0RB2132__6398Y5_120A.png"
+                    ],
+                    "150": [
+                        "/RB/0RB2132/0RB2132__6398Y5_150A.png"
+                    ],
+                    "180": [
+                        "/RB/0RB2132/0RB2132__6398Y5_180A.png"
+                    ],
+                    "210": [
+                        "/RB/0RB2132/0RB2132__6398Y5_210A.png"
+                    ],
+                    "240": [
+                        "/RB/0RB2132/0RB2132__6398Y5_240A.png"
+                    ],
+                    "270": [
+                        "/RB/0RB2132/0RB2132__6398Y5_270A.png"
+                    ],
+                    "30": [
+                        "/RB/0RB2132/0RB2132__6398Y5_030A.png"
+                    ],
+                    "300": [
+                        "/RB/0RB2132/0RB2132__6398Y5_300A.png"
+                    ],
+                    "330": [
+                        "/RB/0RB2132/0RB2132__6398Y5_330A.png"
+                    ],
+                    "60": [
+                        "/RB/0RB2132/0RB2132__6398Y5_060A.png"
+                    ],
+                    "90": [
+                        "/RB/0RB2132/0RB2132__6398Y5_090A.png"
+                    ]
+                },
+                "PI20": {
+                    "Alternative": [
+                        "/RB/0RB2132/0RB2132__6398Y5__STD__shad__al2.png"
+                    ],
+                    "Back": [
+                        "/RB/0RB2132/0RB2132__6398Y5__STD__shad__bk.png"
+                    ],
+                    "Closed Front": [
+                        "/RB/0RB2132/0RB2132__6398Y5__STD__shad__cfr.png"
+                    ],
+                    "Front": [
+                        "/RB/0RB2132/0RB2132__6398Y5__STD__noshad__fr.png",
+                        "/RB/0RB2132/0RB2132__6398Y5__STD__shad__fr.png"
+                    ],
+                    "Lateral": [
+                        "/RB/0RB2132/0RB2132__6398Y5__STD__shad__lt.png"
+                    ],
+                    "Quarter": [
+                        "/RB/0RB2132/0RB2132__6398Y5__STD__shad__qt.png",
+                        "/RB/0RB2132/0RB2132__6398Y5__STD__noshad__qt.png"
+                    ]
+                }
+            },
+            "pictures_flags": [
+                "PI20",
+                "Catalog image",
+                "Degree"
+            ]
+        },
+        {
+            "_id": "8053672981544",
+            "moco": "0RB2132__6398Y5",
+            "model": "0RB2132",
+            "pictures": {
+                "Catalog image": {
+                    "_default": [
+                        "/RB/0RB2132/0RB2132__6398Y5.jpg"
+                    ]
+                },
+                "Degree": {
+                    "0": [
+                        "/RB/0RB2132/0RB2132__6398Y5_000A.png"
+                    ],
+                    "120": [
+                        "/RB/0RB2132/0RB2132__6398Y5_120A.png"
+                    ],
+                    "150": [
+                        "/RB/0RB2132/0RB2132__6398Y5_150A.png"
+                    ],
+                    "180": [
+                        "/RB/0RB2132/0RB2132__6398Y5_180A.png"
+                    ],
+                    "210": [
+                        "/RB/0RB2132/0RB2132__6398Y5_210A.png"
+                    ],
+                    "240": [
+                        "/RB/0RB2132/0RB2132__6398Y5_240A.png"
+                    ],
+                    "270": [
+                        "/RB/0RB2132/0RB2132__6398Y5_270A.png"
+                    ],
+                    "30": [
+                        "/RB/0RB2132/0RB2132__6398Y5_030A.png"
+                    ],
+                    "300": [
+                        "/RB/0RB2132/0RB2132__6398Y5_300A.png"
+                    ],
+                    "330": [
+                        "/RB/0RB2132/0RB2132__6398Y5_330A.png"
+                    ],
+                    "60": [
+                        "/RB/0RB2132/0RB2132__6398Y5_060A.png"
+                    ],
+                    "90": [
+                        "/RB/0RB2132/0RB2132__6398Y5_090A.png"
+                    ]
+                },
+                "PI20": {
+                    "Alternative": [
+                        "/RB/0RB2132/0RB2132__6398Y5__STD__shad__al2.png"
+                    ],
+                    "Back": [
+                        "/RB/0RB2132/0RB2132__6398Y5__STD__shad__bk.png"
+                    ],
+                    "Closed Front": [
+                        "/RB/0RB2132/0RB2132__6398Y5__STD__shad__cfr.png"
+                    ],
+                    "Front": [
+                        "/RB/0RB2132/0RB2132__6398Y5__STD__noshad__fr.png",
+                        "/RB/0RB2132/0RB2132__6398Y5__STD__shad__fr.png"
+                    ],
+                    "Lateral": [
+                        "/RB/0RB2132/0RB2132__6398Y5__STD__shad__lt.png"
+                    ],
+                    "Quarter": [
+                        "/RB/0RB2132/0RB2132__6398Y5__STD__shad__qt.png",
+                        "/RB/0RB2132/0RB2132__6398Y5__STD__noshad__qt.png"
+                    ]
+                }
+            },
+            "pictures_flags": [
+                "PI20",
+                "Catalog image",
+                "Degree"
+            ]
+        }
+    ]
+}
